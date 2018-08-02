@@ -1,2 +1,2 @@
 # Freygrid
-Freygrid - A tenkeyless, 📐ortholinear, open source mechanical ⌨️keyboard.
+Freygrid - A tenkeyless, ortholinear📐, open source mechanical keyboard⌨️.
