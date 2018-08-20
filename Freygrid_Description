@@ -1,0 +1,33 @@
+Freygrid - A tenkeyless, ortholinear📐, open source mechanical keyboard⌨️
+
+The keyboard was designed with the following things in mind:
+
+  -ortholinear layout
+    With the death of the typewriter many decades behind us, we have very little reason to continue to use the staggered layout found on these ancient relics, and on the so-called "modern keyboards" we use today.
+
+    Arguably, there isn't much reason to change this either; You could argue that the small, almost insignificant benefits, don't justify the time it takes to adjust to an ortholinear layout. But I assure you, it's no big deal. It's easy. And besides, any change for the better, no matter how seemingly insignificant, is worth making.
+
+
+  -small but practical
+    A full TKL keyboard. 87 keys, but in the smallest footprint possible while maintaining usability. 
+
+    
+  -customizable
+    Hot-swap sockets(if you so choose). GUI and scripts for customization(coming eventually). Supports both Alps and Cherry MX style switches.
+
+
+  -easily sourced
+    The repository includes ready-made keyboard plate files for several different laser cutting services.
+    Simply choose the manufacturing files that have the name of your service of choice, and upload them to the website of the corresponding service. 
+
+    The keyboard can be fitted with standard size keycaps, which is much more convenient and economical in contrast to some other smaller custom keyboard designs.
+
+
+  -cheap
+    The keyboard can be put together in three different ways which vary in cost.
+
+        PCB only - The top and bottom plates are made out of two PCBs that are sandwiched together.
+
+        Plates + handwiring.
+
+        Plates + PCB
